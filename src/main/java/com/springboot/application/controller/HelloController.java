@@ -23,7 +23,7 @@ public class HelloController {
 
 	@RequestMapping("/hi")
 	public String hi() {
-		return "hi !!";
+		return "hi you didi it again !!";
 	}
 	
 }
