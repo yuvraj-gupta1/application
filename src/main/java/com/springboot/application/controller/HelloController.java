@@ -12,7 +12,7 @@ public class HelloController {
 	}
 	@RequestMapping("/application")
 	public String application() {
-		return "you run application succesfully !!!!!!";
+		return "you have run application succesfully !!!!!!";
 	}
 	
 	
