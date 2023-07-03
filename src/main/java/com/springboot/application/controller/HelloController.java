@@ -26,8 +26,5 @@ public class HelloController {
 		return "hi you didi it again !!";
 	}
 
-	@RequestMapping("/hey")
-	public String hey() {
-		return "Hey Yuvraj!!!!!";
-	}
+	
 }
