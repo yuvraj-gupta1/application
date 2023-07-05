@@ -21,6 +21,10 @@ public class HelloController {
 		return "Hello !!";
 	}
 
+	@RequestMapping("/hey")
+	public String hello() {
+		return "hey !!";
+	}
 
 
 	
