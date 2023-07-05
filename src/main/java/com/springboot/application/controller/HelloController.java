@@ -21,10 +21,7 @@ public class HelloController {
 		return "Hello !!";
 	}
 
-	@RequestMapping("/hi")
-	public String hi() {
-		return "hi you didi it again !!";
-	}
+
 
 	
 }
